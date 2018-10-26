@@ -2,7 +2,7 @@
 Ce dépot a pour but de s'entrainer à la manipulation de **Git**, *Github* et GitKraken
 
 
-Conflict
+Je suis bien la - GM.
 
 
 Voici une modification de Eve
